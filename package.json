@@ -1,0 +1,13 @@
+{
+  "name": "hari-guru-bu-elly-by-hendar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website ucapan Hari Guru spesial untuk Bu Elly Wandira by Hendar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
